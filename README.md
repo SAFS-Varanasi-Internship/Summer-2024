@@ -37,7 +37,7 @@
 <td>
 
 * Week 11 - OHW
-* [Week 12](https://github.com/SAFS-Varanasi-Internship/Summer-2024/discussions/21)
+* [Week 12](https://github.com/SAFS-Varanasi-Internship/Summer-2024/discussions/26)
 
 </td>
 </tr>
