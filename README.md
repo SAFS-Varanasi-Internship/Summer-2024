@@ -30,8 +30,14 @@
 * [Week 7](https://github.com/SAFS-Varanasi-Internship/Summer-2024/discussions/21)
 * [Week 8](https://github.com/SAFS-Varanasi-Internship/Summer-2024/discussions/23)
 * [Week 9](https://github.com/SAFS-Varanasi-Internship/Summer-2024/discussions/24)
+* [Week 10](https://github.com/SAFS-Varanasi-Internship/Summer-2024/discussions/24) - GeoSmart
 
+</td>
 
+<td>
+
+* Week 11 - OHW
+* [Week 12](https://github.com/SAFS-Varanasi-Internship/Summer-2024/discussions/21)
 
 </td>
 </tr>
