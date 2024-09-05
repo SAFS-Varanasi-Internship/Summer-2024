@@ -11,6 +11,7 @@
 * [Zotero bibliography](https://www.zotero.org/groups/5595561/safs-interns-2024/library)
 * [JupyterHub](https://fish.opensci.live/hub/login?next=%2Fhub%2F)
 * [Draft report](https://docs.google.com/document/d/1LbIuGtCFFLPO3MWRDquYCZ1IhFUcE8rhn6mDIATLR4Y/edit?usp=sharing)
+* [CoastWatch Talk](https://docs.google.com/presentation/d/1etA0GIpuRJrahZnKkC36YrCN8A0dmnXPTETdv5v1m0E/edit?usp=sharing)
 
 
 </td>
